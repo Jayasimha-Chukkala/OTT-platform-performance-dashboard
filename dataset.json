@@ -1,0 +1,140 @@
+{
+  "years":[2021,2022,2023,2024,2025],
+
+  "platforms":[
+    {
+      "name":"Netflix",
+      "color":"#E50914",
+
+      "subscribers":[5.2,6.4,8.1,10.8,13.5],
+      "activeUsers":[12,15,18,22,27],
+
+      "revenue":[950,1250,1650,2250,2950],
+
+      "marketShare":[17,18,19,20,21],
+
+      "movies":[1200,1320,1450,1600,1780],
+      "shows":[340,390,460,540,650],
+
+      "avgImdb":[7.1,7.2,7.3,7.4,7.5],
+
+      "subscriptionPrice":[199,199,199,199,199],
+
+      "downloads":[80,95,115,135,155],
+
+      "imdb8PlusTitles":[80,95,112,135,165],
+
+      "originalContent":[120,145,180,230,290]
+    },
+
+    {
+      "name":"Prime Video",
+      "color":"#00A8E1",
+
+      "subscribers":[12,14,17,20,23],
+      "activeUsers":[24,28,33,38,44],
+
+      "revenue":[1600,1950,2400,2950,3600],
+
+      "marketShare":[28,29,30,31,31],
+
+      "movies":[1800,1950,2120,2280,2450],
+      "shows":[450,530,620,720,850],
+
+      "avgImdb":[7.0,7.0,7.1,7.2,7.2],
+
+      "subscriptionPrice":[149,149,149,149,149],
+
+      "downloads":[150,175,205,240,280],
+
+      "imdb8PlusTitles":[95,110,130,155,180],
+
+      "originalContent":[150,190,240,310,380]
+    },
+
+    {
+      "name":"JioHotstar",
+      "color":"#FF6B00",
+
+      "subscribers":[35,42,55,75,280],
+      "activeUsers":[120,140,175,220,500],
+
+      "revenue":[2200,2700,3300,4100,5200],
+
+      "marketShare":[35,36,37,38,40],
+
+      "movies":[900,1020,1150,1280,1420],
+      "shows":[280,340,420,510,620],
+
+      "avgImdb":[6.9,7.0,7.0,7.1,7.2],
+
+      "subscriptionPrice":[99,99,149,149,149],
+
+      "downloads":[350,420,520,700,1000],
+
+      "imdb8PlusTitles":[55,70,85,105,130],
+
+      "originalContent":[80,100,130,180,240]
+    }
+  ],
+
+  "genres":{
+    "Netflix":{
+      "Action":420,
+      "Drama":390,
+      "Comedy":320,
+      "Thriller":250,
+      "Documentary":180,
+      "Romance":220
+    },
+
+    "PrimeVideo":{
+      "Action":540,
+      "Drama":430,
+      "Comedy":360,
+      "Thriller":270,
+      "Documentary":130,
+      "Romance":260
+    },
+
+    "JioHotstar":{
+      "Action":290,
+      "Drama":420,
+      "Comedy":210,
+      "Thriller":170,
+      "Documentary":80,
+      "Romance":250
+    }
+  },
+
+  "topRatedContent":[
+    {
+      "title":"The Family Man",
+      "platform":"Prime Video",
+      "imdb":8.7,
+      "year":2019,
+      "type":"Series"
+    },
+    {
+      "title":"Sacred Games",
+      "platform":"Netflix",
+      "imdb":8.5,
+      "year":2018,
+      "type":"Series"
+    },
+    {
+      "title":"Delhi Crime",
+      "platform":"Netflix",
+      "imdb":8.5,
+      "year":2019,
+      "type":"Series"
+    },
+    {
+      "title":"Special Ops",
+      "platform":"JioHotstar",
+      "imdb":8.5,
+      "year":2020,
+      "type":"Series"
+    }
+  ]
+}
