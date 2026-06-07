@@ -1,2 +1,160 @@
-# OTT-platform-performance-dashboard
-Interactive OTT Platform Performance Dashboard comparing Netflix, Prime Video, and JioHotstar using subscriber, revenue, content, market share, and genre analytics.
+# OTT Platform Performance Dashboard
+
+A multi-page interactive dashboard analyzing the performance of major OTT platforms in India:
+
+- Netflix
+- Prime Video
+- JioHotstar
+
+The dashboard provides insights into subscriber growth, revenue trends, content expansion, market share, genre distribution, and overall platform rankings.
+
+---
+
+## Project Overview
+
+This project focuses on comparing the business performance of leading OTT platforms in India using publicly available and estimated market data.
+
+The dashboard is designed to simulate an executive-level business intelligence report similar to Power BI dashboards.
+
+---
+
+## Key Objectives
+
+- Compare OTT platform growth over time
+- Analyze subscriber trends
+- Evaluate revenue performance
+- Monitor content growth
+- Understand genre distribution
+- Rank platforms using a custom performance score
+
+---
+
+## Dashboard Pages
+
+### 1. OTT Overview
+
+- Total Subscribers
+- Total Revenue
+- Total Content
+- Market Share
+- Platform Comparison
+
+### 2. Subscriber Analysis
+
+- Subscribers by Year
+- Subscriber Growth %
+- Market Share Trends
+- User Growth Analysis
+
+### 3. Revenue Analysis
+
+- Revenue by Year
+- Revenue Growth %
+- Revenue per Subscriber
+- Revenue Share Comparison
+
+### 4. Content Growth Analysis
+
+- Movies Added by Year
+- Shows Added by Year
+- Content Expansion Trends
+- Platform-wise Content Comparison
+
+### 5. Genre Analysis
+
+- Genre Distribution
+- Genre Popularity
+- Platform-wise Genre Share
+- Content Diversity Analysis
+
+### 6. OTT Ranking Dashboard
+
+Custom Ranking Formula:
+
+OTT Score =
+40% Subscribers +
+30% Revenue +
+20% Content Volume +
+10% IMDb Rating
+
+---
+
+## KPIs Analyzed
+
+- Subscribers
+- Active Users
+- Revenue
+- Market Share
+- Movies
+- TV Shows
+- Total Content
+- IMDb Ratings
+- IMDb 8+ Titles
+- Original Content
+- Downloads
+- Subscription Pricing
+
+---
+
+## Tools & Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Chart.js
+
+---
+
+## Features
+
+- Interactive Multi-Page Dashboard
+- Dynamic KPI Cards
+- Responsive Design
+- Executive Business Insights
+- Interactive Charts
+- Platform Ranking System
+- Modern Dashboard UI
+
+---
+
+## Dataset
+
+The project uses a structured OTT dataset containing:
+
+- Subscriber Data
+- Revenue Data
+- Content Metrics
+- Genre Distribution
+- IMDb Ratings
+- Market Share Statistics
+
+The dataset is embedded directly within the application and processed dynamically using JavaScript.
+
+---
+
+## Business Insights Generated
+
+- Market Leader Identification
+- Revenue Performance Analysis
+- Subscriber Growth Analysis
+- Content Strategy Evaluation
+- Genre Performance Analysis
+- Platform Ranking Assessment
+
+---
+
+## Future Improvements
+
+- Real-Time Data Integration
+- Additional OTT Platforms
+- Predictive Analytics
+- User Sentiment Analysis
+- AI-Powered Recommendations
+
+---
+
+## Author
+
+Jayasimha
+
+Data Analytics | Business Intelligence | Dashboard Development
