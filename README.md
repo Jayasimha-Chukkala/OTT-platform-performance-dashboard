@@ -153,8 +153,28 @@ The dataset is embedded directly within the application and processed dynamicall
 
 ---
 
-## Author
+## Dataset Disclaimer
 
-Jayasimha
+⚠️ Important Notice
 
-Data Analytics | Business Intelligence | Dashboard Development
+This project uses a **sample dataset** created for educational, demonstration, and portfolio purposes.
+
+The dataset contains realistic and publicly inspired OTT industry metrics; however, the values are not official platform-reported figures and should not be considered actual business data.
+
+The sample data has been designed to simulate OTT platform performance trends and enable dashboard development, KPI analysis, data visualization, and business intelligence reporting.
+
+
+Sample metrics include:
+
+- Subscribers
+- Active Users
+- Revenue
+- Market Share
+- Movies
+- TV Shows
+- IMDb Ratings
+- Original Content
+- Downloads
+- Subscription Pricing
+
+This project is intended solely for learning, analytics practice, dashboard development, and portfolio demonstration purposes.
